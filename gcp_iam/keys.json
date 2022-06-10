@@ -1,1 +1,13 @@
-### Your Account key ####
+{
+    "type": "service_account",
+    "project_id": "searce-academy",
+    "private_key_id": "8c59c8f5befae150ef0ee42d1c98e1e70bedf187",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLW/1StNgl5eCW\ntik+yQ2nqXp5s9qk7qBQp4mgEU5p21d6gh1cZIjkQYHTGDhyQyKjKk1YrXFi3lii\nIcKp5STfea+AYa4oCOdju4stGFiXJM8tjEyv9jj+iM6jD3PhSMcRBRpNESdlimX1\nJpkY11n1KHJ4BHJRUr35Z7DjAQReLCI05FcKpiZ0AxRZCFcJ+V0OdNPOhvc9pmkY\nzFNCe546UGZiEk1LjR742gvSMkdYwspt+2Q9cDkcMYwBhZJLxL1HiX0uXF003WQq\nKQBrMofX8aYmo2cx2ERFgV+ZfVuL+oZzmJEpG9KcSnO8o7E+Jj1Bs5AgRINZStY5\nzIQaSHaHAgMBAAECggEAOUBYJLkyIxVBMdzt5rWuqPWfO/UlCIr/ykUoi05j/4xX\nZ++KuZC6M1y34oiul4iMD1ig9ua5hcaoOFj911viEiJNhPy7DZ1YG21YxOTWSBL+\nWsnlayKMMCiu2BxJGPMmzAVePrUmHMGma6qmrmYudsUg2OYTkw6S2kzVcUs/gg00\nvwtTWm+6dZf/Fuf/TY/LZX832Mbezy85r0vqiB/i9G7KvRBZ8aFTD0yt10c2OdZN\n+Q7FHbiB0SsX86kwlK/5Y6LIJozv9itgfhmjqSKGPyjvjezj3Vko41zkIew9n6F1\nYhoGjQ1dSgh2a/uV2u3CLMaSY+8kyA3uV1SjiZ6PCQKBgQD6DvxWGkiFnwpuo7O3\nhsUj7fETrAQCO0AyRRRfDpaHfI0bk4+N5VkVzLFvzUyWNmrG3cZLnpKSx/8OUjVp\nFGb6GlkgjCnzfl2hjDXaA566k8H/t9bkm55TaHFu3G6OZx0Izsdn+JvNdRTUBwrH\nmui+MWMoHYdDijBlPzQN+KI/GQKBgQDQMPMh/9QIHNgdanlTj2YTk8sOXm105OaP\nNAtKET5IbhUcSTLncVA6JHf1Wooqah5aKnHvez9Aq+p9+sbvLAzrO2T+F4eCBvun\nilJkHdtrSSadU2kT/j1Z0DzowYxSD51Tah7KCKxU/4C1d1AAgN7P6aQh6ElCLco+\n2FMdwFQ2nwKBgQCsGX5AAEzjcgcrCI3bBO1PgibGhEAqDP9s2bBgj9i4HNe9H/zQ\nCwYaA8wnB2Prij5I6j/csaFtVipLf/b0gC8zeMjYpr8Er3bfhXFWv+ERxjnhtnQ2\n2IfKHfrb8uhAJ+WKt030V91bNXaFSud3Yz1GERWOeWwr5sLSHALGjtWTmQKBgQCM\nLzm3vgymvc1j2UsC0f8Y1Z6X+UtYt7zr1k53vC6lFMLQPhWxtCIiVGYV5rY8IyJ2\n8jev2txXjqsh0xfa+l1kk6TIV02eZ1dSlBgwY85YanQ+4WhS1xG2hTpOO+1hYDQ+\nc6lxvu9TeIvRJRrQi/X8J8WmM0QI9M5HDODCmrvZ3wKBgQDzq+WfeXzJ5DaQyrzH\nqRgxV3OKMHaVyfIwHoeeTCJ5dHZQf30LDPif5ecBrjFzW1yC9cTZ8lk4pInpUGca\ndcyG85yhvuZSDXvuqyq76uLIxd96Y+J1gmFEVETAMBBg5XMULWJl1DRg+BFGXm/A\nMbL5h7Sr9ff4BP2ht060Wfw6+w==\n-----END PRIVATE KEY-----\n",
+    "client_email": "terraform-demo@searce-academy.iam.gserviceaccount.com",
+    "client_id": "113983628327033867251",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-demo%40searce-academy.iam.gserviceaccount.com"
+  }
+  

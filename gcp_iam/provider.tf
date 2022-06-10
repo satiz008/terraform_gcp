@@ -9,7 +9,7 @@ terraform {
 
 provider "google" {
   # Configuration options
-  project     = "Project-ID"
+  project     = "searce-academy"
   region      = "us-central1"
   zone        = "us-central1-a"
   credentials = "keys.json"
