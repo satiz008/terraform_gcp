@@ -1,1 +1,1 @@
-# terraform_gcp
+# terraform gcp_infra
