@@ -1,0 +1,7 @@
+
+.DS_Store
+*.hcl
+*.info
+*.0_x5
+gcp_gke_private_cluster/terraform.tfstate.backup
+gcp_gke_private_cluster/terraform.tfstate
